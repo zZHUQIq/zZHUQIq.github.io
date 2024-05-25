@@ -1,0 +1,25 @@
+# Overview of Cognition
+1. cognition:![[Pasted image 20230423203832.png]]![[Pasted image 20230423204059.png]]
+2. ![[Pasted image 20230423204148.png]]
+# Overview of the Associational Cortex
+1. Cortical territories:![[Pasted image 20230423205100.png]]
+2. Overview:![[Pasted image 20230423205200.png]]![[Pasted image 20230423205547.png]]
+3. Association cortex:![[Pasted image 20230423205715.png]]![[Pasted image 20230423205808.png]]
+4. 问：Cognition is an emergent property of brain function, reflecting (as Charles Sherrington famously put it a century ago) the integrative action of the nervous system. Nevertheless, it is useful to identify and study distinct neurobiological mechanisms that support disparate functions that contribute to cognition. Which cognitive process is attributable to the functions of brainstem modulatory (biogenic amine) systems?——![[Pasted image 20230423210522.png]]
+# Parietal Associational Cortex
+1. Overview:![[Pasted image 20230423212149.png]]
+2. Attention：![[Pasted image 20230423212609.png]]![[Pasted image 20230423215552.png]]![[Pasted image 20230423213947.png]]***注***：The most common network that is impacted with brain injury that results in the Hemineglect syndrome seems to be focused right here in this inferior parietal lobule of the right hemisphere.![[Pasted image 20230423214541.png]]***注***：The parietal cortex is critical for building this body image, this body schema, this neural concept of self.
+3. 问：A colleague described a patient that he studied who had a cortical stroke, which resulted in limb weakness and a bizarre denial of impairment (anosognosia). Which limb was (most likely) impaired?(Hint: this women’s anosognosia can be considered an extreme form of hemineglect.)![[Pasted image 20230423215438.png]]
+# Temporal associational Cortex
+1. Visual Recognition![[Pasted image 20230423220552.png]]![[Pasted image 20230423221336.png]]![[Pasted image 20230423221753.png]]![[Pasted image 20230423221914.png]]![[Pasted image 20230423222157.png]]
+2. Memory
+	1. Overview:![[Pasted image 20230423222407.png]]![[Pasted image 20230423222834.png]]
+	2. Memory system:![[Pasted image 20230423223145.png]]![[Pasted image 20230423223246.png]]![[Pasted image 20230423224138.png]]![[Pasted image 20230423225035.png]]![[Pasted image 20230424102535.png]]![[Pasted image 20230424103014.png]]
+	3. Diseases：![[Pasted image 20230424103638.png]]
+3.  Language
+	1. Brain area of L:![[Pasted image 20230424104112.png]]***注***：(1)WA: It is often found in the superior temporal gyrus, roughly the posterior 1 3rd of the superior temporal gyrus.And this network then does the job of encoding the meaning of these symbols. And in terms of language function, this is where the understanding or the comprehension of language is built up in the human brain. (2)BA: Broca's area(the inferior frontal lobe) is an area that is involved in the production of speech. We can understand Broca's area as a premotor cortex for vocal articulation. But it's not just for vocal articulation, Broca's area also seems to be involved with the production of written language.![[Pasted image 20230424111710.png]]![[Pasted image 20230424110229.png]]***注***： We believe that the temporal associational cortex of the right hemisphere is important for interpreting the prosodic quality of speech. That is, the emotional content of speech. And likewise, in the right-sided language regions of the Inferior Frontal Lobe, we have networks that seem to be responsible for imbuing speech with emotion. So, the right hemisphere seems to be very important for that quality of communication. That relies more on emotion than it does on the semantic lexicon that we access as we produce speech.
+	2. What neurological problems would you expect with a patient who suffered a stroke involving branches of the **right posterior cerebral artery** that supply inferior temporal cortex?![[Pasted image 20230424111634.png]]
+4. Working Memory
+	1. Prefrontal Cortex:Prefrontal essentially means cortex that is anterior or before the motor cortex. So for our purposes, the prefrontal cortex can be localized anatomically as the anterior two thirds of the superior, middle and inferior frontal gyri. Remember our three fingers here on the dorsal-lateral aspect of the cerebral cortex. (1)The dorsolateral prefrontal cortex——are associated with planning, planning behavior based on the integration of sensory signals with other sources of information that would include our memory, our emotion, our interoceptive signals.These functions are exemplified in the phenomenon that we call working memory. This dorsal lateral prefrontal cortex as it turns out also has a very important role in moderating or suppressing behaviors. That would otherwise be considered to be inappropriate.
+	2. WM:![[Pasted image 20230424112750.png]]
+5. Exeutive Function![[Pasted image 20230424142510.png]]
