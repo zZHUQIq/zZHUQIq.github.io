@@ -1,7 +1,7 @@
 # Motivating example
 1. **投硬币**：![[Pasted image 20240522151653.png]]
 	1. **基于模型的**：这么精确的模型我们可能无法知道！![[Pasted image 20240522151737.png]]
-	2. **无模型**【大量采样+实验】：投掷硬币很多次，采样很多次，把采样求平均![[Pasted image 20240522151913.png]]![[Pasted image 20240522151949.png]]***注***：当N很小的时候不精确，当N越来越大的时候越来越精确![[Pasted image 20240522152246.png]]
+	2. **无模型**【大量采样+实验】：投掷硬币很多次，采样很多次，把采样求平均![[Pasted image 20240522151913.png]]![[Pasted image 20240522151949.png]]***注***：当N很小的时候不精确，当N越来越大的时候越来越精确【大数定理】![[Pasted image 20240522152246.png]]
 # The simplest MC-based RL algorithm
 1. 值迭代到无模型的转变：![[Pasted image 20240522153852.png]]
 	* Action value的计算——有模型+无模型![[Pasted image 20240522154117.png]]***注***：无模型就是action value最初的定义，s状态下采取动作a得到return的期望
